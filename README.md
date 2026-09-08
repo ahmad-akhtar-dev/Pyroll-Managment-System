@@ -1,4 +1,4 @@
-Payroll-Management-System
+Payroll Management System
 
 A secure, desktop-based **Payroll Management System** developed using **Java Swing/AWT** with **MySQL** as the backend database. The system is designed to simplify employee record management, secure user authentication, and payroll processing through an intuitive graphical user interface.
 
